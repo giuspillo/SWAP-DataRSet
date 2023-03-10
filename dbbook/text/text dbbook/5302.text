@@ -1,0 +1,12 @@
+Artificial Intelligence: A Modern Approach (AIMA) is a college textbook on Artificial Intelligence, written by Stuart J. Russell and Peter Norvig. The third edition of the book was released 11 December 2009. It is used in over 1100 universities worldwide and has been called "the most popular artificial intelligence textbook in the world". The book is intended for an undergraduate audience but can also be used for graduate-level studies with the suggestion of adding some of the primary sources listed in the extensive bibliography.
+Chapters
+Artificial Intelligence: A Modern Approach is divided into seven parts with a total of 27 chapters. [4] The authors state that it is a large text which would take two semesters to cover all the chapters and projects.
+Part I: Artificial Intelligence - Sets the stage for the following sections by viewing AI systems as intelligent agents that can decide what actions to take and when to take them.
+Part II: Problem Solving - Focuses on methods for deciding what action to take when needing to think several steps ahead such as playing a game of chess.
+Part III: Knowledge and Reasoning - Discusses ways to represent knowledge about the intelligent agents' environment and how to reason logically with that knowledge.
+Part IV: Uncertain Knowledge and Reasoning - This section is analogous to Parts III and IV but deals with reasoning and decision-making in the presence of uncertainty in the environment.
+Part V: Learning - Describes ways for generating knowledge required by the decision-making components and introduces a new component the neural network.
+Part VI: Communicating, Perceiving and Acting - Concentrates on ways an intelligent agent can perceive its environment whether by touch or vision.
+Part VII: Conclusions - Considers the past and future of AI by discussing what AI really is and why it has succeeded to some degree. Also the views of those philosophers who believe that AI can never succeed are given discussion.
+Code
+Programs in the book are presented in pseudo code with implementations in Java , Python , and Lisp available online. [5] There are also unsupported implementations in Prolog , C++ , and C# .

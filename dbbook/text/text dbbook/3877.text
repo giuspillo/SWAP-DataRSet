@@ -1,0 +1,28 @@
+Critical Chain is a novel by Dr. Eliyahu Goldratt using the Critical Chain theory of Project Management as the major theme. It is really a teaching method for the theory.
+Plot introduction
+Like Goldrattâ€™s book The Goal , Critical Chain is written as a novel, not like a project manager 's how-to guide. This book is a story about a professor trying to attain his tenure at a university's business school. The plot is used to maintain interest in the subject and provide a real life feel to the book. It provides plenty of real-world examples. The plot of the novel is fourfold:
+A professor trying to become tenured,
+A business school's struggle to improve enrollment,
+Teaching philosophy,
+Applying the Theory of Constraints to project management
+The goal of the book is the last point, but Goldratt makes it clear that educational systems must change to better accommodate the quickly changing world of business.
+The book walks the reader through a series of steps to establish the principles for the discussion. It is written for someone with a modicum of project management background.
+The book starts by pointing out the problems with how time estimates are normally done on projects. It then provides a primer on the Theory of Constraints and an example of its implementation in a steel mill. With the foundation set, it proceeds to show how the Theory of Constraints can be applied to schedule generation, resources constraints and multiple projects .
+Scheduling Estimates
+Goldratt claims that the current method of generating task time estimates is the primary reason for increased expense of projects and their inability to finish on time. The commonly accepted principle is to add safety ( aka : pad or slop) to generate a task time length that will essentially guarantee the step gets completed. He asserts that estimates for a task are based on individuals providing values that they feel will give them an 80-90% chance of completing the step, these estimates are further padded by managers above this person creating a length of time to complete a task that is excessive - as much as 200% of the actual time required. It is this excessive padding that has the opposite effect - guaranteeing the task will run full term or late. As counter intuitive as this seems, he provides examples of why this is the case. This predisposes the people on the project to consume the time estimate by:
+Triggering the " student syndrome " in the resource assigned to the task - they have more than enough time to do the task, therefore they start the task late using up all the safety.
+Encouraging multitasking . The safety is added knowing that the resource will not be able to focus on the task and hence encouraged to multitask on multiple projects at a time, which significantly impacts all projects.
+Not claiming early completion. In order to preserve the safety concept in future projects, resources do not report tasks completed early. Obviously, though, there is no way to hide a late completion.
+Theory of Constraints Primer
+The book presents a primer for Theory of Constraints. This is done in the form of a lecture by a professor who has recently returned from a sabbatical at a large conglomerate that uses the Theory of Constraints. The discussion focuses on the current methods of measuring success at a work center ( cost and throughput ) and shows how they are contradictory to the success of the production line as a whole.
+The book enumerates the five principle steps of the Theory of Constraints:
+Identify. Identify the bottleneck of the system.
+Exploit. Exploit this bottleneck, making its throughput efficient by changing processes, equipment maintenance procedures, training, policies, etc.
+Subordinate: Subordinate the throughput of all other work centers to this work center.
+Elevate. Invest in this work center to increase its throughput - add equipment, manpower, etc.
+Inertia. Start the process over on the line to determine the new bottleneck.
+This philosophy keeps the cost and throughput models at odds with one another since the subordination process necessarily decreases efficiency. Hence, evaluation criteria for properly managing a work center must change to properly reward the organizationâ€™s success.
+The book points out this conflict with respect to an axiom in the Theory of Constraints that states that if two concepts are in direct conflict, then there is an assumption as part of those concepts that is incorrect.
+Steel Mill Example
+To illustrate, the book uses an example of a steel mill with significant production problems, excess inventory and cost issues. It methodically assigns all the issues of the plant to the method in which success of a work center is measured. The errant assumption is efficiency being measured by tons of steel per hour. The flaw in the measurement is that not all material takes the same length of time to produce and not all work centers have the same throughput. It concludes the sources of the problems for the steel mill are:
+Issue
